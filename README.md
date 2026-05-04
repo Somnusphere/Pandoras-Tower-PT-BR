@@ -5,6 +5,7 @@
   Arquivos e ferramenta para instalar a tradução da versão americana do jogo Pandora’s Tower.
   <br>
 </p>
+
 <br>
 # Sobre o projeto
 Projeto de tradução para PT-BR do jogo Pandora's Tower.
