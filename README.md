@@ -20,7 +20,8 @@ Se quiser apoiar o projeto, meu PIX é `48aaa922-083b-469b-b936-0171d3713992`
 
 ## Encontrei um erro, como posso ajudar?
 Todos os textos foram traduzidos e revisados por mim (Gustavo), então é possível que algum erro tenha passado despercebido. Se você encontrar qualquer problema, me manda email ou mensagem na Steam. Ficarei feliz em corrigir o mais rápido possível.
-Email: gusta.500@hotmail.com
+
+- Email: gusta.500@hotmail.com
 <p align="center">
     <a
         style="all: unset;"
