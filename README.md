@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#" target="blank">
-    <img src="https://imgur.com/a/ubFJ6Ct" width="200" alt="Zero" />
+    <img src="https://imgur.com/a/ubFJ6Ct" width="200" alt="Pandoras" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Apesar das dificuldades, o projeto foi finalizado com extremo carinho. Não cons
 
 **Não apoio a pirataria**. Caso queira jogar com o patch, compre o jogo original e faça o dump.
 
-Caso queira apoiar o projeto, meu PIX é `48aaa922-083b-469b-b936-0171d3713992`
+Se quiser apoiar o projeto, meu PIX é `48aaa922-083b-469b-b936-0171d3713992`
 
 <br><br>
 
