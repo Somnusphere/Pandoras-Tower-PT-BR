@@ -37,6 +37,7 @@ Todos os textos foram traduzidos e revisados por mim (Gustavo), então é possí
 - O jogo quebra caso você tente ir para uma das duas ultimas torres quando a Helena está do lado de fora. Para não crashar, volte para dentro e durma.
 
 ## Como instalar a tradução?
+- Baixe o repositório (CODE -> Download ZIP)
 - Basta arrastar e soltar um arquivo ISO/WBFS/RVZ sobre o arquivo **PatchIt!.bat** para iniciar o processo de aplicação. O script provavelmente só funcionará corretamente no Windows.
 - Usuários de Linux e Mac podem tentar executar o script usando o Wine, mas não há garantia de que o “patcher” e as ferramentas que ele utiliza funcionarão corretamente.
 - Caso não funcione no linux, extraia usando o Dolphin ou outro programa, arraste as pastas referente a tradução e junte tudo com o Wiimms ISO Tools.
