@@ -1,13 +1,6 @@
 <h1 align="center">
   Pandora's Tower - Tradução para PT-BR
 </h1>
-
-<p align="center">
-  <a href="#" target="blank">
-    <img src="https://imgur.com/a/ubFJ6Ct" width="200" alt="Pandoras" />
-  </a>
-</p>
-
 <p align="center">
   Arquivos e ferramenta para instalar a tradução da versão americana do jogo Pandora’s Tower.
   <br>
