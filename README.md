@@ -10,7 +10,7 @@
 # Sobre o projeto
 Projeto de tradução para PT-BR do jogo Pandora's Tower.
 Iniciado em 02/2025 e concluído em 04/2026. Todo o trabalho foi feito por mim, sozinho.
-Apesar das dificuldades, o projeto foi finalizado com extremo carinho. Não consegui descobrir o criador do patch UNDUB do Pandora’s Tower, que usei como base para a instalção mais fácil dos meus arquivos. 
+Apesar das dificuldades, o projeto foi finalizado com extremo carinho.
 
 **Não apoio a pirataria**. Caso queira jogar com o patch, compre o jogo original e faça o dump.
 
