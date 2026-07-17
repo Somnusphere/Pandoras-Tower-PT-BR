@@ -40,7 +40,7 @@ Todos os textos foram traduzidos e revisados por mim (Gustavo), mas é possível
 ## Como instalar a tradução?
 - Baixe o repositório (CODE -> Download ZIP)
 - Arraste e solte um arquivo ISO, WBFS ou RVZ sobre o arquivo **PatchIt!.bat** para iniciar o processo de aplicação da tradução. O script provavelmente só funcionará corretamente no Windows.
-- Usuários de Linux e Mac podem tentar executar o script usando o Wine ou semelhante, mas não há garantia de que o “patcher” e as ferramentas que ele utiliza funcionarão corretamente.
+- Usuários de Linux e Mac podem tentar executar o script usando o Wine ou semelhante, mas não há garantia de que o “patcher” funcione corretamente.
 - Caso o Wine não funcione, extraia o jogo usando o Dolphin, copie os arquivos da tradução e recrie a imagem utilizando o Wiimms ISO Tools.
   
 ## Instalação apenas das legendas
